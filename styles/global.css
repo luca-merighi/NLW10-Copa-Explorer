@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --text-white: #E1E1E6;
+    --text-transparent: #E1E1E6A9;
+    --text-yellow: #F7DD43;
+    --card-bg: #1D1C19;
+    --card-border: #323238;
+    --yellow-border: #746615;
+
+    --blue: #338AF3;
+}
+
+body {
+    background-color: var(--card-bg);
+    background-image: url('../images/bg-gradient.svg');
+    background-position-x: center;
+    background-position-Y: 55%;
+    
+    font-family: 'Roboto', sans-serif;
+}
