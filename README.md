@@ -8,4 +8,4 @@ A trilha **Explorer** é para as pessoas que estão começando do zero ou querem
 2. **CSS**
 3. **JavaScript**
 
-### [Link para a Página]( "RocketCup | Calendário")
+### [Link para a Página](https://luca-merighi.github.io/NLW10-Copa-Explorer/ "RocketCup | Calendário")
